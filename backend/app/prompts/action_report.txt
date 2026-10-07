@@ -1,0 +1,25 @@
+You are generating an engineering action report for a confirmed high-impact customer incident. Use ONLY the facts provided — do not invent metrics.
+
+Title context: {theme_name}
+Severity: {severity}
+Impact score: {impact_score}
+Review count: {volume}
+Growth: {growth_percent}%
+Likely driver: {likely_driver}
+Likely-driver confidence: {root_cause_confidence}%
+Affected segments: {affected_segments}
+
+Representative evidence:
+{examples}
+
+Produce a JSON engineering report with fields:
+- title: short title describing the regression and its likely driver
+- problem: 1-2 sentences describing the problem
+- impact: 1 sentence stating the scale of impact using only the numbers given
+- affected_users: 1 sentence describing who is affected (segments given)
+- likely_driver: restate the likely driver and confidence, never "confirmed root cause"
+- representative_evidence_summary: 1-2 sentences summarizing what the evidence shows
+- severity: the severity given
+- recommended_owner: a plausible engineering team (e.g. "Payments Engineering", "Platform/Android", "Auth Team") based on the theme category
+- priority: P0 for critical, P1 for high, P2 for medium, P3 for low
+- next_steps: a list of 2-4 concrete, specific investigation steps

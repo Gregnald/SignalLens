@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 250 250 252;
+  --foreground: 15 15 20;
+  --card: 255 255 255;
+  --border: 226 226 232;
+  --muted: 243 243 247;
+  --muted-foreground: 110 110 125;
+  --primary: 79 70 229;
+  --critical: 220 38 38;
+  --high: 234 88 12;
+  --medium: 202 138 4;
+  --low: 100 116 139;
+
+  /* dataviz: categorical series (fixed order, never cycled) */
+  --chart-1: #2a78d6; /* blue */
+  --chart-2: #eb6834; /* orange */
+  --chart-3: #1baf7a; /* aqua */
+  --chart-4: #eda100; /* yellow */
+  --chart-5: #e87ba4; /* magenta */
+  --chart-6: #008300; /* green */
+
+  /* dataviz: status palette (reserved — never reused as series 4+) */
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-serious: #ec835a;
+  --status-critical: #d03b3b;
+
+  --chart-grid: #e1e0d9;
+  --chart-axis: #c3c2b7;
+}
+
+.dark {
+  --background: 12 12 16;
+  --foreground: 240 240 245;
+  --card: 22 22 28;
+  --border: 40 40 50;
+  --muted: 30 30 38;
+  --muted-foreground: 150 150 165;
+  --primary: 129 140 248;
+  --critical: 248 113 113;
+  --high: 251 146 60;
+  --medium: 250 204 21;
+  --low: 148 163 184;
+
+  --chart-1: #3987e5;
+  --chart-2: #d95926;
+  --chart-3: #199e70;
+  --chart-4: #c98500;
+  --chart-5: #d55181;
+  --chart-6: #008300;
+
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-serious: #ec835a;
+  --status-critical: #d03b3b;
+
+  --chart-grid: #2c2c2a;
+  --chart-axis: #383835;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --background: 12 12 16;
+    --foreground: 240 240 245;
+    --card: 22 22 28;
+    --border: 40 40 50;
+    --muted: 30 30 38;
+    --muted-foreground: 150 150 165;
+    --primary: 129 140 248;
+    --critical: 248 113 113;
+    --high: 251 146 60;
+    --medium: 250 204 21;
+    --low: 148 163 184;
+
+    --chart-1: #3987e5;
+    --chart-2: #d95926;
+    --chart-3: #199e70;
+    --chart-4: #c98500;
+    --chart-5: #d55181;
+    --chart-6: #008300;
+
+    --status-good: #0ca30c;
+    --status-warning: #fab219;
+    --status-serious: #ec835a;
+    --status-critical: #d03b3b;
+
+    --chart-grid: #2c2c2a;
+    --chart-axis: #383835;
+  }
+}
+
+body {
+  background-color: rgb(var(--background));
+  color: rgb(var(--foreground));
+}

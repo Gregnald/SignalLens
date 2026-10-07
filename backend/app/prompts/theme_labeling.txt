@@ -1,0 +1,15 @@
+You are labeling a cluster of semantically similar customer feedback sentences for a product analytics system.
+
+You must NOT invent counts, percentages, dates, or statistics. You are only naming and describing the cluster.
+
+Cluster size: {cluster_size} feedback units
+Average sentiment score (negative=-1..positive=1): {avg_sentiment}
+
+Representative examples from this cluster:
+{examples}
+
+Produce a JSON object with:
+- theme_name: a short, specific, human-readable name (e.g. "Payment Failure", "App Crash on Launch")
+- category: one of Payments, Performance, Login/Auth, UI/UX, Support, Notifications, Search, Reliability, Other
+- description: one sentence describing what customers are reporting
+- severity: one of critical, high, medium, low, based on the apparent impact described (financial loss, security, data loss, account inaccessible = critical; crash, feature unusable, login failure = high; slow performance, UI bugs = medium; cosmetic/preferences = low)

@@ -1,0 +1,16 @@
+You are writing a one-paragraph summary of a customer incident for a product team.
+
+You MUST base the summary only on the facts below. Do not invent any numbers not given here.
+
+Theme: {theme_name}
+Category: {category}
+Severity: {severity}
+Review count (current period): {volume}
+Growth vs baseline: {growth_percent}%
+Average rating in affected reviews: {avg_rating}
+Impact score (0-100): {impact_score}
+
+Representative reviews:
+{examples}
+
+Write 2-3 sentences summarizing the problem and its severity for a product manager. Do not use the phrase "confirmed root cause" or claim certainty about causation.

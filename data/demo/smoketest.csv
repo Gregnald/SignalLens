@@ -1,0 +1,636 @@
+review_id,review,rating,date,app_version,platform,device,country
+demo-000001,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.2,iOS,iPhone SE,United Kingdom
+demo-000002,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.0,Android,Google Pixel 8,United States
+demo-000003,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Samsung Galaxy S23,India
+demo-000004,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.1,Android,Samsung Galaxy S23,United Kingdom
+demo-000005,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Xiaomi 13,India
+demo-000006,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-26,4.7.8,iOS,iPhone 14,Nigeria
+demo-000007,"Average experience, some features are good, others need work.",3,2026-09-29,4.8.2,iOS,iPhone 14,India
+demo-000008,"Opened the app and it immediately closed itself, happens every time now.",2,2026-10-01,4.8.2,iOS,iPhone 15 Pro,United States
+demo-000009,"Love the new features in the latest update, well done team.",5,2026-09-11,4.7.9,iOS,iPhone 15 Pro,India
+demo-000010,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-28,4.7.8,Android,Xiaomi 13,India
+demo-000011,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-16,4.8.0,Android,Samsung Galaxy S23,Germany
+demo-000012,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,1,2026-09-25,4.8.1,Android,Xiaomi 13,India
+demo-000013,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,1,2026-09-20,4.8.1,Android,Samsung Galaxy A54,Indonesia
+demo-000014,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,2,2026-09-21,4.8.1,Android,Samsung Galaxy S23,United States
+demo-000015,"Love the new features in the latest update, well done team.",5,2026-09-18,4.8.0,Android,OnePlus 11,Germany
+demo-000016,UPI transaction rejected every single time since I updated to 4.7.8. Lost confidence in this app.,1,2026-08-12,4.7.8,Android,Samsung Galaxy S23,Nigeria
+demo-000017,"It does what it says, no major complaints but nothing amazing either.",3,2026-10-01,4.8.2,Android,Xiaomi 13,Brazil
+demo-000018,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.2,iOS,iPhone 15 Pro,United Kingdom
+demo-000019,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.0,iOS,iPhone 14,United States
+demo-000020,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-16,4.8.0,Android,Google Pixel 8,India
+demo-000021,The new UI is beautiful and so much easier to navigate.,5,2026-08-24,4.7.8,iOS,iPhone 14,Germany
+demo-000022,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-08-23,4.7.9,iOS,iPhone 13,Nigeria
+demo-000023,"Takes forever to load the home screen now, used to be instant.",2,2026-09-16,4.7.9,iOS,iPhone SE,Brazil
+demo-000024,Really impressed with how fast and smooth the app feels now.,4,2026-09-18,4.8.0,Android,OnePlus 11,Germany
+demo-000025,Support team is unhelpful and takes forever to reply.,1,2026-10-01,4.8.1,iOS,iPhone SE,United Kingdom
+demo-000026,Search results are completely irrelevant to what I typed.,3,2026-10-01,4.8.1,Android,Samsung Galaxy A54,Indonesia
+demo-000027,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.1,Android,Samsung Galaxy A54,United States
+demo-000028,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-29,4.7.8,Android,OnePlus 11,Brazil
+demo-000029,"Takes forever to load the home screen now, used to be instant.",3,2026-09-09,4.8.0,Android,Samsung Galaxy S23,Germany
+demo-000030,Can't log in — the verification code just doesn't show up anymore.,3,2026-10-01,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000031,Really impressed with how fast and smooth the app feels now.,4,2026-08-31,4.7.9,Android,Xiaomi 13,Brazil
+demo-000032,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,2,2026-09-29,4.8.1,iOS,iPhone SE,India
+demo-000033,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.0,Android,Samsung Galaxy A54,Brazil
+demo-000034,Really impressed with how fast and smooth the app feels now.,5,2026-09-28,4.8.2,Android,OnePlus 11,United Kingdom
+demo-000035,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-26,4.8.1,iOS,iPhone 15 Pro,India
+demo-000036,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",3,2026-10-01,4.8.2,iOS,iPhone 14,Indonesia
+demo-000037,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-09-30,4.8.0,iOS,iPhone 13,Nigeria
+demo-000038,"Love the new features in the latest update, well done team.",4,2026-08-08,4.7.8,Android,Xiaomi 13,India
+demo-000039,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.0,Android,OnePlus 11,India
+demo-000040,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-10-01,4.8.2,Android,Samsung Galaxy S23,India
+demo-000041,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,OnePlus 11,India
+demo-000042,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Germany
+demo-000043,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-09-23,4.8.1,Android,OnePlus 11,Brazil
+demo-000044,Dark mode has some ugly color contrast issues in the new UI.,2,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Nigeria
+demo-000045,Support team is unhelpful and takes forever to reply.,2,2026-09-02,4.7.8,Android,Xiaomi 13,Nigeria
+demo-000046,The redesign makes it harder to find what I'm looking for.,2,2026-09-12,4.7.9,iOS,iPhone 14,United Kingdom
+demo-000047,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.1,Android,OnePlus 11,Brazil
+demo-000048,App has gotten really slow and laggy since the recent update.,3,2026-09-05,4.8.0,iOS,iPhone 13,Nigeria
+demo-000049,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-17,4.7.9,iOS,iPhone SE,Germany
+demo-000050,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000051,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-21,4.8.0,iOS,iPhone SE,Brazil
+demo-000052,Really impressed with how fast and smooth the app feels now.,5,2026-09-23,4.8.0,Android,Samsung Galaxy A54,Germany
+demo-000053,"Love the new features in the latest update, well done team.",4,2026-09-20,4.7.9,iOS,iPhone 15 Pro,United Kingdom
+demo-000054,"Average experience, some features are good, others need work.",4,2026-09-20,4.8.1,Android,Samsung Galaxy S23,Germany
+demo-000055,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000056,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,Android,Google Pixel 8,Germany
+demo-000057,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-07,4.7.8,Android,OnePlus 11,Germany
+demo-000058,The redesign makes it harder to find what I'm looking for.,3,2026-09-09,4.7.9,iOS,iPhone 14,United States
+demo-000059,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-01,4.7.8,Android,Xiaomi 13,Germany
+demo-000060,"Love the new features in the latest update, well done team.",4,2026-08-23,4.7.9,iOS,iPhone 14,United States
+demo-000061,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-23,4.7.9,Android,OnePlus 11,Brazil
+demo-000062,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-23,4.8.0,iOS,iPhone SE,United Kingdom
+demo-000063,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.2,Android,Samsung Galaxy A54,United States
+demo-000064,"This app just keeps getting better, checkout was effortless this time.",4,2026-08-18,4.7.9,iOS,iPhone 15 Pro,United States
+demo-000065,"Transaction failed but the amount was debited from my account, no refund yet.",1,2026-09-18,4.8.1,Android,Google Pixel 8,Nigeria
+demo-000066,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-10-01,4.8.2,Android,Samsung Galaxy A54,India
+demo-000067,"Everything feels sluggish, the app used to be so much faster.",3,2026-08-18,4.7.8,Android,Xiaomi 13,Nigeria
+demo-000068,"App works as expected, nothing special to report either way.",3,2026-09-22,4.8.1,Android,Samsung Galaxy S23,India
+demo-000069,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.2,iOS,iPhone SE,Indonesia
+demo-000070,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-10,4.7.9,Android,Samsung Galaxy S23,Indonesia
+demo-000071,Customer service chat just disconnects without resolving anything.,2,2026-10-01,4.8.1,Android,OnePlus 11,Indonesia
+demo-000072,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-01,4.8.0,iOS,iPhone SE,United States
+demo-000073,"App works as expected, nothing special to report either way.",4,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Brazil
+demo-000074,Support team is unhelpful and takes forever to reply.,2,2026-09-19,4.8.0,Android,Google Pixel 8,Germany
+demo-000075,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.0,iOS,iPhone 15 Pro,Indonesia
+demo-000076,"Love the new features in the latest update, well done team.",5,2026-09-24,4.8.0,Android,Samsung Galaxy S23,Nigeria
+demo-000077,Really impressed with how fast and smooth the app feels now.,4,2026-09-24,4.8.1,Android,OnePlus 11,United States
+demo-000078,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.1,iOS,iPhone SE,United Kingdom
+demo-000079,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,2,2026-09-30,4.8.1,Android,Xiaomi 13,Germany
+demo-000080,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.1,iOS,iPhone 14,Indonesia
+demo-000081,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-10-01,4.8.1,iOS,iPhone 14,Indonesia
+demo-000082,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-09-29,4.8.2,iOS,iPhone 15 Pro,United Kingdom
+demo-000083,The new UI is beautiful and so much easier to navigate.,4,2026-08-30,4.7.9,iOS,iPhone 14,Germany
+demo-000084,"Keeps crashing when I try to check out, completely unusable right now.",1,2026-08-08,4.7.8,Android,Samsung Galaxy S23,Nigeria
+demo-000085,Really impressed with how fast and smooth the app feels now.,5,2026-09-22,4.8.1,iOS,iPhone 14,India
+demo-000086,The new UI is beautiful and so much easier to navigate.,5,2026-08-20,4.7.8,Android,Google Pixel 8,Nigeria
+demo-000087,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-06,4.8.0,iOS,iPhone SE,Nigeria
+demo-000088,"Transaction failed but the amount was debited from my account, no refund yet.",1,2026-09-25,4.8.1,Android,Samsung Galaxy A54,Germany
+demo-000089,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-08-13,4.7.8,iOS,iPhone 15 Pro,Indonesia
+demo-000090,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.0,Android,Samsung Galaxy S23,India
+demo-000091,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-08-26,4.7.8,iOS,iPhone 15 Pro,Nigeria
+demo-000092,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-09-20,4.8.0,Android,OnePlus 11,India
+demo-000093,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-18,4.8.1,Android,Xiaomi 13,United States
+demo-000094,"Average experience, some features are good, others need work.",4,2026-09-02,4.8.0,Android,Samsung Galaxy S23,Brazil
+demo-000095,Really impressed with how fast and smooth the app feels now.,5,2026-09-10,4.8.0,iOS,iPhone 14,United Kingdom
+demo-000096,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-06,4.7.9,Android,OnePlus 11,India
+demo-000097,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-09-24,4.8.1,Android,OnePlus 11,United Kingdom
+demo-000098,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-07,4.8.0,Android,Google Pixel 8,United Kingdom
+demo-000099,Really impressed with how fast and smooth the app feels now.,4,2026-09-02,4.7.9,Android,Samsung Galaxy S23,Brazil
+demo-000100,The new UI is beautiful and so much easier to navigate.,4,2026-10-01,4.8.0,iOS,iPhone 13,Nigeria
+demo-000101,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.1,iOS,iPhone 13,United States
+demo-000102,Dark mode has some ugly color contrast issues in the new UI.,2,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Germany
+demo-000103,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-09-13,4.7.9,iOS,iPhone 15 Pro,Brazil
+demo-000104,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Germany
+demo-000105,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-10-01,4.8.2,iOS,iPhone SE,Nigeria
+demo-000106,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.1,iOS,iPhone 15 Pro,Germany
+demo-000107,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-13,4.7.8,Android,Samsung Galaxy S23,Nigeria
+demo-000108,Customer service chat just disconnects without resolving anything.,1,2026-08-17,4.7.8,iOS,iPhone SE,Nigeria
+demo-000109,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,1,2026-09-27,4.8.1,iOS,iPhone 15 Pro,Germany
+demo-000110,App has gotten really slow and laggy since the recent update.,3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,United Kingdom
+demo-000111,"App works as expected, nothing special to report either way.",3,2026-09-06,4.7.9,Android,Xiaomi 13,Brazil
+demo-000112,Really impressed with how fast and smooth the app feels now.,5,2026-09-19,4.8.0,iOS,iPhone SE,Indonesia
+demo-000113,Dark mode has some ugly color contrast issues in the new UI.,3,2026-10-01,4.8.2,Android,Xiaomi 13,Brazil
+demo-000114,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-24,4.8.0,Android,Samsung Galaxy A54,India
+demo-000115,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-28,4.8.1,iOS,iPhone 13,Brazil
+demo-000116,"Average experience, some features are good, others need work.",3,2026-09-26,4.8.0,Android,Samsung Galaxy S23,United Kingdom
+demo-000117,"Can't find products I know exist, search just doesn't work well.",3,2026-10-01,4.8.2,Android,Google Pixel 8,Germany
+demo-000118,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Samsung Galaxy A54,India
+demo-000119,"App won't even launch anymore after updating, just crashes on splash screen.",1,2026-09-25,4.8.0,iOS,iPhone 13,United Kingdom
+demo-000120,App has gotten really slow and laggy since the recent update.,3,2026-09-04,4.8.0,Android,Google Pixel 8,United Kingdom
+demo-000121,"Love the new features in the latest update, well done team.",5,2026-08-12,4.7.8,iOS,iPhone 13,United Kingdom
+demo-000122,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-07,4.7.8,iOS,iPhone SE,United Kingdom
+demo-000123,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.1,Android,Samsung Galaxy S23,United Kingdom
+demo-000124,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,2,2026-09-21,4.8.1,Android,Samsung Galaxy S23,Germany
+demo-000125,Checkout is broken — payment keeps failing and support hasn't replied in two days.,1,2026-09-20,4.8.1,Android,Xiaomi 13,Indonesia
+demo-000126,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-10,4.7.8,Android,Samsung Galaxy A54,Indonesia
+demo-000127,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-14,4.7.9,Android,OnePlus 11,United States
+demo-000128,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-28,4.8.1,Android,Google Pixel 8,Germany
+demo-000129,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.2,Android,Xiaomi 13,Nigeria
+demo-000130,"Average experience, some features are good, others need work.",3,2026-08-15,4.7.8,iOS,iPhone SE,Nigeria
+demo-000131,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000132,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",3,2026-08-13,4.7.8,Android,Samsung Galaxy S23,India
+demo-000133,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-11,4.8.0,Android,Samsung Galaxy A54,Nigeria
+demo-000134,Support team is unhelpful and takes forever to reply.,2,2026-09-16,4.7.9,iOS,iPhone SE,Nigeria
+demo-000135,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-25,4.8.1,Android,Google Pixel 8,Germany
+demo-000136,Really impressed with how fast and smooth the app feels now.,4,2026-09-25,4.8.1,iOS,iPhone 14,Nigeria
+demo-000137,Dark mode has some ugly color contrast issues in the new UI.,3,2026-08-18,4.7.8,Android,OnePlus 11,United Kingdom
+demo-000138,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-28,4.7.9,Android,Samsung Galaxy S23,United Kingdom
+demo-000139,"Takes forever to load the home screen now, used to be instant.",2,2026-10-01,4.8.1,Android,Samsung Galaxy S23,Germany
+demo-000140,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-21,4.7.8,iOS,iPhone 15 Pro,Nigeria
+demo-000141,Can't log in — the verification code just doesn't show up anymore.,3,2026-08-25,4.7.9,iOS,iPhone 15 Pro,Germany
+demo-000142,Really impressed with how fast and smooth the app feels now.,5,2026-08-18,4.7.9,Android,Samsung Galaxy A54,Brazil
+demo-000143,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,2,2026-09-25,4.8.1,iOS,iPhone 14,United States
+demo-000144,Contacted support three days ago and still no response.,1,2026-10-01,4.8.1,Android,Samsung Galaxy A54,Germany
+demo-000145,"It does what it says, no major complaints but nothing amazing either.",4,2026-10-01,4.8.2,iOS,iPhone 14,United Kingdom
+demo-000146,"Love the new features in the latest update, well done team.",5,2026-09-04,4.8.0,Android,Google Pixel 8,India
+demo-000147,Dark mode has some ugly color contrast issues in the new UI.,3,2026-09-10,4.7.9,Android,Xiaomi 13,Brazil
+demo-000148,"Takes forever to load the home screen now, used to be instant.",2,2026-09-26,4.7.9,Android,OnePlus 11,Indonesia
+demo-000149,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-12,4.7.8,iOS,iPhone 14,Indonesia
+demo-000150,Checkout is broken — payment keeps failing and support hasn't replied in two days.,1,2026-09-22,4.8.1,Android,Samsung Galaxy S23,United States
+demo-000151,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.0,Android,Samsung Galaxy S23,United States
+demo-000152,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-08-14,4.7.8,iOS,iPhone 14,United Kingdom
+demo-000153,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,iOS,iPhone 14,United Kingdom
+demo-000154,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-11,4.7.8,Android,Google Pixel 8,Nigeria
+demo-000155,Can't log in — the verification code just doesn't show up anymore.,3,2026-09-29,4.8.0,iOS,iPhone 14,Indonesia
+demo-000156,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",2,2026-09-18,4.8.1,Android,OnePlus 11,Germany
+demo-000157,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-21,4.8.0,Android,Xiaomi 13,India
+demo-000158,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Indonesia
+demo-000159,Really impressed with how fast and smooth the app feels now.,5,2026-09-18,4.8.0,iOS,iPhone 14,Nigeria
+demo-000160,"App works as expected, nothing special to report either way.",3,2026-08-17,4.7.8,iOS,iPhone SE,Nigeria
+demo-000161,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-23,4.7.9,Android,OnePlus 11,United States
+demo-000162,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.2,iOS,iPhone 13,Nigeria
+demo-000163,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",3,2026-08-09,4.7.8,Android,Samsung Galaxy A54,United States
+demo-000164,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-07,4.7.9,iOS,iPhone SE,Brazil
+demo-000165,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-28,4.8.1,iOS,iPhone 13,Brazil
+demo-000166,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-12,4.7.8,iOS,iPhone SE,Indonesia
+demo-000167,The new UI is beautiful and so much easier to navigate.,4,2026-09-04,4.7.8,Android,Xiaomi 13,India
+demo-000168,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-06,4.8.0,Android,Google Pixel 8,Brazil
+demo-000169,Contacted support three days ago and still no response.,1,2026-10-01,4.8.1,iOS,iPhone 13,Nigeria
+demo-000170,"Love the new features in the latest update, well done team.",4,2026-09-18,4.8.0,Android,Samsung Galaxy A54,Germany
+demo-000171,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-08-19,4.7.8,Android,Google Pixel 8,United States
+demo-000172,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-10,4.7.8,Android,Samsung Galaxy A54,Germany
+demo-000173,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.1,iOS,iPhone 13,Nigeria
+demo-000174,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000175,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Xiaomi 13,India
+demo-000176,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.2,iOS,iPhone 13,United States
+demo-000177,Really impressed with how fast and smooth the app feels now.,4,2026-09-29,4.8.2,Android,Google Pixel 8,Brazil
+demo-000178,"App works as expected, nothing special to report either way.",3,2026-09-16,4.8.0,Android,Google Pixel 8,Indonesia
+demo-000179,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-18,4.8.1,Android,OnePlus 11,Nigeria
+demo-000180,"Love the new features in the latest update, well done team.",5,2026-09-05,4.7.8,iOS,iPhone SE,Germany
+demo-000181,Checkout is broken — payment keeps failing and support hasn't replied in two days.,2,2026-08-22,4.7.9,Android,Samsung Galaxy S23,India
+demo-000182,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-09-13,4.7.9,Android,Samsung Galaxy A54,United States
+demo-000183,"App won't even launch anymore after updating, just crashes on splash screen.",1,2026-09-11,4.8.0,Android,Google Pixel 8,India
+demo-000184,Customer service chat just disconnects without resolving anything.,1,2026-10-01,4.8.2,Android,Google Pixel 8,Brazil
+demo-000185,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,iOS,iPhone 13,Brazil
+demo-000186,"Can't find products I know exist, search just doesn't work well.",3,2026-10-01,4.8.1,Android,OnePlus 11,Germany
+demo-000187,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-21,4.7.8,iOS,iPhone SE,India
+demo-000188,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,2,2026-09-18,4.8.1,Android,Xiaomi 13,United Kingdom
+demo-000189,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.2,iOS,iPhone 14,India
+demo-000190,The redesign makes it harder to find what I'm looking for.,3,2026-08-10,4.7.8,iOS,iPhone 13,United States
+demo-000191,Dark mode has some ugly color contrast issues in the new UI.,2,2026-08-31,4.7.9,Android,Xiaomi 13,India
+demo-000192,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.1,Android,Samsung Galaxy A54,Nigeria
+demo-000193,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.1,Android,Xiaomi 13,Indonesia
+demo-000194,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.1,Android,Samsung Galaxy S23,Germany
+demo-000195,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.0.,1,2026-09-03,4.8.0,iOS,iPhone 13,Brazil
+demo-000196,Can't log in — the verification code just doesn't show up anymore.,2,2026-10-01,4.8.2,iOS,iPhone SE,Germany
+demo-000197,"Everything feels sluggish, the app used to be so much faster.",2,2026-09-13,4.7.9,Android,Samsung Galaxy S23,United Kingdom
+demo-000198,Really impressed with how fast and smooth the app feels now.,5,2026-08-20,4.7.8,Android,Samsung Galaxy A54,Nigeria
+demo-000199,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-08,4.7.8,Android,Xiaomi 13,Indonesia
+demo-000200,The redesign makes it harder to find what I'm looking for.,2,2026-10-01,4.8.2,Android,Xiaomi 13,United Kingdom
+demo-000201,"Average experience, some features are good, others need work.",4,2026-09-12,4.8.0,iOS,iPhone SE,India
+demo-000202,"It does what it says, no major complaints but nothing amazing either.",3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Brazil
+demo-000203,The new UI is beautiful and so much easier to navigate.,5,2026-09-22,4.8.1,iOS,iPhone 14,Nigeria
+demo-000204,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-22,4.7.9,iOS,iPhone SE,India
+demo-000205,"App works as expected, nothing special to report either way.",3,2026-08-21,4.7.9,iOS,iPhone 15 Pro,Brazil
+demo-000206,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.1,iOS,iPhone 14,Germany
+demo-000207,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000208,"Love the new features in the latest update, well done team.",5,2026-08-26,4.7.8,Android,Samsung Galaxy S23,Nigeria
+demo-000209,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.2,Android,Samsung Galaxy S23,United States
+demo-000210,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Nigeria
+demo-000211,Really impressed with how fast and smooth the app feels now.,5,2026-09-13,4.7.8,iOS,iPhone 15 Pro,Indonesia
+demo-000212,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-25,4.8.1,Android,Google Pixel 8,United States
+demo-000213,"Transaction failed but the amount was debited from my account, no refund yet.",1,2026-09-29,4.8.1,Android,Xiaomi 13,Nigeria
+demo-000214,"Love the new features in the latest update, well done team.",4,2026-09-13,4.7.8,iOS,iPhone SE,Nigeria
+demo-000215,"Love the new features in the latest update, well done team.",4,2026-09-29,4.8.0,Android,Google Pixel 8,United Kingdom
+demo-000216,"Transaction failed but the amount was debited from my account, no refund yet.",1,2026-09-20,4.8.1,Android,Google Pixel 8,United States
+demo-000217,"Love the new features in the latest update, well done team.",5,2026-09-22,4.7.9,Android,Xiaomi 13,Brazil
+demo-000218,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,2,2026-09-23,4.8.1,Android,Samsung Galaxy S23,India
+demo-000219,"Takes forever to load the home screen now, used to be instant.",2,2026-09-17,4.7.9,iOS,iPhone SE,United Kingdom
+demo-000220,"Love the new features in the latest update, well done team.",5,2026-08-25,4.7.9,iOS,iPhone 13,Indonesia
+demo-000221,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-09-22,4.8.0,iOS,iPhone 13,India
+demo-000222,"It does what it says, no major complaints but nothing amazing either.",4,2026-10-01,4.8.0,Android,Samsung Galaxy A54,Germany
+demo-000223,"Everything feels sluggish, the app used to be so much faster.",3,2026-10-01,4.8.0,Android,Samsung Galaxy A54,India
+demo-000224,Checkout is broken — payment keeps failing and support hasn't replied in two days.,1,2026-09-01,4.8.0,iOS,iPhone SE,Nigeria
+demo-000225,"Average experience, some features are good, others need work.",4,2026-08-11,4.7.8,Android,OnePlus 11,India
+demo-000226,"Search returns random unrelated items, really needs improvement.",3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Nigeria
+demo-000227,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-08-30,4.7.8,iOS,iPhone 13,Brazil
+demo-000228,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-09,4.7.8,Android,Google Pixel 8,Indonesia
+demo-000229,Really impressed with how fast and smooth the app feels now.,4,2026-09-09,4.7.8,Android,Samsung Galaxy A54,Brazil
+demo-000230,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.1,Android,Samsung Galaxy S23,Indonesia
+demo-000231,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-19,4.8.1,Android,OnePlus 11,India
+demo-000232,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-22,4.7.8,Android,OnePlus 11,United States
+demo-000233,"Opened the app and it immediately closed itself, happens every time now.",2,2026-10-01,4.8.1,iOS,iPhone 13,United States
+demo-000234,"Takes forever to load the home screen now, used to be instant.",3,2026-08-30,4.7.9,iOS,iPhone 13,Nigeria
+demo-000235,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,1,2026-09-30,4.8.1,Android,Xiaomi 13,Indonesia
+demo-000236,Support team is unhelpful and takes forever to reply.,2,2026-09-24,4.8.0,Android,Xiaomi 13,India
+demo-000237,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000238,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Xiaomi 13,India
+demo-000239,"Buttons are way too small on my screen, hard to tap the right one.",3,2026-09-05,4.8.0,iOS,iPhone 14,Nigeria
+demo-000240,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-29,4.7.8,iOS,iPhone SE,India
+demo-000241,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.0,Android,Google Pixel 8,Germany
+demo-000242,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-07,4.7.8,iOS,iPhone SE,Germany
+demo-000243,App has gotten really slow and laggy since the recent update.,2,2026-09-01,4.7.8,iOS,iPhone 13,Germany
+demo-000244,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,Android,Samsung Galaxy S23,United Kingdom
+demo-000245,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-09-07,4.8.0,Android,OnePlus 11,United Kingdom
+demo-000246,Dark mode has some ugly color contrast issues in the new UI.,2,2026-10-01,4.8.2,Android,Xiaomi 13,Brazil
+demo-000247,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Brazil
+demo-000248,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Xiaomi 13,India
+demo-000249,Really impressed with how fast and smooth the app feels now.,5,2026-09-28,4.8.0,Android,OnePlus 11,India
+demo-000250,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.2,iOS,iPhone 14,Indonesia
+demo-000251,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-03,4.7.8,Android,Google Pixel 8,India
+demo-000252,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.1,iOS,iPhone SE,India
+demo-000253,"Love the new features in the latest update, well done team.",5,2026-09-11,4.8.0,iOS,iPhone 15 Pro,United States
+demo-000254,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Germany
+demo-000255,"Buttons are way too small on my screen, hard to tap the right one.",3,2026-09-02,4.8.0,Android,Xiaomi 13,Indonesia
+demo-000256,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",2,2026-09-13,4.7.9,Android,OnePlus 11,Germany
+demo-000257,"The new layout is confusing, I can't find the settings menu anymore.",2,2026-09-18,4.8.0,Android,Xiaomi 13,Germany
+demo-000258,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,2,2026-09-24,4.8.0,iOS,iPhone 14,Nigeria
+demo-000259,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-10-01,4.8.1,iOS,iPhone 14,United States
+demo-000260,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",2,2026-10-01,4.8.2,Android,Google Pixel 8,India
+demo-000261,Duplicate charge on my card for the same order after a failed payment attempt.,2,2026-09-23,4.8.1,Android,Google Pixel 8,United States
+demo-000262,"OTP never arrived, tried five times, couldn't log in for 20 minutes.",3,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Nigeria
+demo-000263,Really impressed with how fast and smooth the app feels now.,4,2026-09-20,4.8.0,Android,Xiaomi 13,Brazil
+demo-000264,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-06,4.8.0,Android,Samsung Galaxy S23,Nigeria
+demo-000265,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-09-18,4.8.1,Android,Samsung Galaxy S23,Brazil
+demo-000266,The new UI is beautiful and so much easier to navigate.,5,2026-09-04,4.8.0,iOS,iPhone 14,Brazil
+demo-000267,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.0,Android,Google Pixel 8,Nigeria
+demo-000268,"Opened the app and it immediately closed itself, happens every time now.",2,2026-08-19,4.7.9,iOS,iPhone 15 Pro,United Kingdom
+demo-000269,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-09-25,4.8.0,iOS,iPhone SE,Brazil
+demo-000270,App has gotten really slow and laggy since the recent update.,3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,India
+demo-000271,The new UI is beautiful and so much easier to navigate.,5,2026-08-06,4.7.8,Android,OnePlus 11,Indonesia
+demo-000272,The new UI is beautiful and so much easier to navigate.,4,2026-10-01,4.8.2,iOS,iPhone SE,Nigeria
+demo-000273,"Can't find products I know exist, search just doesn't work well.",3,2026-10-01,4.8.2,Android,Google Pixel 8,United States
+demo-000274,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-29,4.7.8,iOS,iPhone 15 Pro,Germany
+demo-000275,"App works as expected, nothing special to report either way.",3,2026-09-18,4.7.9,iOS,iPhone SE,United States
+demo-000276,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,Android,OnePlus 11,United Kingdom
+demo-000277,"OTP never arrived, tried five times, couldn't log in for 20 minutes.",2,2026-10-01,4.8.2,iOS,iPhone 13,United Kingdom
+demo-000278,App has gotten really slow and laggy since the recent update.,3,2026-08-30,4.7.8,iOS,iPhone 14,United States
+demo-000279,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-28,4.8.1,Android,Samsung Galaxy S23,United States
+demo-000280,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-17,4.8.0,iOS,iPhone 15 Pro,Indonesia
+demo-000281,Customer service chat just disconnects without resolving anything.,1,2026-10-01,4.8.1,iOS,iPhone SE,India
+demo-000282,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.0,iOS,iPhone SE,Germany
+demo-000283,"Worst update ever, nothing works, terrible experience overall.",5,2026-09-06,4.8.0,Android,Samsung Galaxy S23,United States
+demo-000284,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,1,2026-09-25,4.8.0,iOS,iPhone 13,India
+demo-000285,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-23,4.7.8,iOS,iPhone 14,United States
+demo-000286,"Search returns random unrelated items, really needs improvement.",3,2026-10-01,4.8.1,iOS,iPhone SE,United States
+demo-000287,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Brazil
+demo-000288,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-09-20,4.8.1,Android,Xiaomi 13,India
+demo-000289,The new UI is beautiful and so much easier to navigate.,4,2026-09-19,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000290,The redesign makes it harder to find what I'm looking for.,3,2026-09-04,4.8.0,Android,OnePlus 11,United Kingdom
+demo-000291,Search results are completely irrelevant to what I typed.,3,2026-09-30,4.8.2,iOS,iPhone 15 Pro,India
+demo-000292,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Indonesia
+demo-000293,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",2,2026-09-20,4.8.0,Android,Xiaomi 13,United Kingdom
+demo-000294,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",2,2026-09-26,4.8.0,iOS,iPhone 14,Indonesia
+demo-000295,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.2,Android,Samsung Galaxy S23,United States
+demo-000296,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-16,4.7.9,iOS,iPhone 14,India
+demo-000297,"Love the new features in the latest update, well done team.",5,2026-09-08,4.7.9,Android,Xiaomi 13,Nigeria
+demo-000298,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-20,4.7.8,iOS,iPhone 15 Pro,Germany
+demo-000299,The app crashes every time I open it since the last update.,1,2026-08-27,4.7.8,iOS,iPhone 15 Pro,India
+demo-000300,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-27,4.7.9,iOS,iPhone 15 Pro,Indonesia
+demo-000301,Really impressed with how fast and smooth the app feels now.,5,2026-09-08,4.7.8,Android,Xiaomi 13,United Kingdom
+demo-000302,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,OnePlus 11,India
+demo-000303,"Everything feels sluggish, the app used to be so much faster.",3,2026-09-07,4.8.0,Android,Samsung Galaxy A54,Brazil
+demo-000304,"It does what it says, no major complaints but nothing amazing either.",4,2026-08-08,4.7.8,iOS,iPhone SE,Germany
+demo-000305,"Love the new features in the latest update, well done team.",5,2026-08-30,4.7.8,Android,Samsung Galaxy A54,Brazil
+demo-000306,Really impressed with how fast and smooth the app feels now.,4,2026-09-10,4.7.8,iOS,iPhone SE,India
+demo-000307,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-27,4.7.8,Android,OnePlus 11,United Kingdom
+demo-000308,"Average experience, some features are good, others need work.",4,2026-08-06,4.7.8,iOS,iPhone 13,Nigeria
+demo-000309,The app crashes every time I open it since the last update.,2,2026-09-25,4.8.1,Android,OnePlus 11,United States
+demo-000310,The new UI is beautiful and so much easier to navigate.,5,2026-09-16,4.8.0,Android,Samsung Galaxy S23,Nigeria
+demo-000311,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-03,4.7.8,iOS,iPhone SE,Indonesia
+demo-000312,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.2,iOS,iPhone SE,United States
+demo-000313,"Love the new features in the latest update, well done team.",4,2026-09-22,4.8.0,iOS,iPhone SE,Germany
+demo-000314,Can't log in — the verification code just doesn't show up anymore.,3,2026-09-02,4.7.9,Android,OnePlus 11,Indonesia
+demo-000315,"Can't find products I know exist, search just doesn't work well.",3,2026-08-25,4.7.9,iOS,iPhone 14,Brazil
+demo-000316,"Everything feels sluggish, the app used to be so much faster.",3,2026-09-05,4.7.8,iOS,iPhone SE,Nigeria
+demo-000317,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Samsung Galaxy S23,India
+demo-000318,Dark mode has some ugly color contrast issues in the new UI.,2,2026-10-01,4.8.1,iOS,iPhone 15 Pro,United Kingdom
+demo-000319,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-27,4.7.8,iOS,iPhone 13,United States
+demo-000320,Customer service chat just disconnects without resolving anything.,1,2026-09-20,4.8.0,Android,OnePlus 11,Brazil
+demo-000321,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.2,Android,Samsung Galaxy A54,United States
+demo-000322,"Everything feels sluggish, the app used to be so much faster.",2,2026-10-01,4.8.2,Android,Google Pixel 8,United Kingdom
+demo-000323,Scrolling is choppy and the app lags whenever I open a product page.,2,2026-10-01,4.8.2,Android,OnePlus 11,Indonesia
+demo-000324,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-03,4.7.8,Android,Xiaomi 13,Brazil
+demo-000325,Customer service chat just disconnects without resolving anything.,1,2026-10-01,4.8.2,iOS,iPhone 13,United Kingdom
+demo-000326,"Opened the app and it immediately closed itself, happens every time now.",1,2026-08-15,4.7.8,Android,Xiaomi 13,Brazil
+demo-000327,Checkout is broken — payment keeps failing and support hasn't replied in two days.,1,2026-08-20,4.7.9,Android,Google Pixel 8,India
+demo-000328,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-30,4.7.8,iOS,iPhone SE,Nigeria
+demo-000329,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Brazil
+demo-000330,"Everything feels sluggish, the app used to be so much faster.",2,2026-09-10,4.7.8,iOS,iPhone SE,Germany
+demo-000331,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-02,4.7.8,iOS,iPhone 15 Pro,Germany
+demo-000332,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-10-01,4.8.0,Android,Xiaomi 13,Indonesia
+demo-000333,"Average experience, some features are good, others need work.",3,2026-09-17,4.8.1,iOS,iPhone 15 Pro,India
+demo-000334,"Horrible, I hate what they did to this app.",5,2026-09-05,4.8.0,Android,Xiaomi 13,Brazil
+demo-000335,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.1,Android,Google Pixel 8,Brazil
+demo-000336,"Love the new features in the latest update, well done team.",5,2026-09-21,4.7.9,Android,Google Pixel 8,Brazil
+demo-000337,"Average experience, some features are good, others need work.",4,2026-10-01,4.8.1,iOS,iPhone 14,Indonesia
+demo-000338,Really impressed with how fast and smooth the app feels now.,4,2026-09-05,4.8.0,iOS,iPhone SE,United Kingdom
+demo-000339,"Tried to pay three times, all failed, but my bank shows the money was deducted.",2,2026-09-26,4.8.1,Android,Samsung Galaxy S23,Indonesia
+demo-000340,The app crashes every time I open it since the last update.,1,2026-09-16,4.7.9,iOS,iPhone SE,Nigeria
+demo-000341,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,OnePlus 11,India
+demo-000342,"Can't find products I know exist, search just doesn't work well.",3,2026-09-06,4.7.8,Android,Samsung Galaxy S23,Brazil
+demo-000343,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.1,Android,OnePlus 11,Brazil
+demo-000344,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-16,4.7.8,iOS,iPhone 15 Pro,United Kingdom
+demo-000345,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-20,4.7.9,iOS,iPhone 15 Pro,India
+demo-000346,"Tried to pay three times, all failed, but my bank shows the money was deducted.",2,2026-09-17,4.8.1,Android,Samsung Galaxy A54,Brazil
+demo-000347,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",2,2026-09-20,4.7.9,Android,OnePlus 11,Brazil
+demo-000348,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-01,4.7.9,Android,Samsung Galaxy A54,Germany
+demo-000349,"Takes forever to load the home screen now, used to be instant.",3,2026-10-01,4.8.1,iOS,iPhone 15 Pro,India
+demo-000350,"It does what it says, no major complaints but nothing amazing either.",3,2026-10-01,4.8.0,Android,Samsung Galaxy A54,United Kingdom
+demo-000351,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Samsung Galaxy S23,India
+demo-000352,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,1,2026-09-24,4.8.1,Android,Google Pixel 8,Nigeria
+demo-000353,"Average experience, some features are good, others need work.",4,2026-10-01,4.8.2,iOS,iPhone 14,Indonesia
+demo-000354,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.0,iOS,iPhone SE,United States
+demo-000355,The new UI is beautiful and so much easier to navigate.,5,2026-09-19,4.8.1,Android,Xiaomi 13,India
+demo-000356,Search results are completely irrelevant to what I typed.,2,2026-09-27,4.7.9,iOS,iPhone 14,India
+demo-000357,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,OnePlus 11,India
+demo-000358,"Love the new features in the latest update, well done team.",5,2026-09-28,4.8.2,Android,Samsung Galaxy A54,United States
+demo-000359,Support team is unhelpful and takes forever to reply.,1,2026-10-01,4.8.2,iOS,iPhone 15 Pro,India
+demo-000360,The new UI is beautiful and so much easier to navigate.,4,2026-09-20,4.7.9,iOS,iPhone 13,United Kingdom
+demo-000361,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-23,4.7.9,iOS,iPhone SE,Brazil
+demo-000362,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Brazil
+demo-000363,Dark mode has some ugly color contrast issues in the new UI.,2,2026-08-27,4.7.8,Android,Samsung Galaxy A54,Indonesia
+demo-000364,Customer service chat just disconnects without resolving anything.,2,2026-10-01,4.8.1,Android,Google Pixel 8,Nigeria
+demo-000365,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.2,Android,Xiaomi 13,United States
+demo-000366,Support team is unhelpful and takes forever to reply.,1,2026-09-03,4.8.0,Android,Samsung Galaxy A54,Germany
+demo-000367,"Average experience, some features are good, others need work.",3,2026-09-03,4.8.0,Android,OnePlus 11,Indonesia
+demo-000368,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-21,4.8.0,iOS,iPhone 13,United Kingdom
+demo-000369,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-20,4.8.1,Android,Samsung Galaxy A54,United States
+demo-000370,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,iOS,iPhone 14,Brazil
+demo-000371,"Absolutely awful, the app is broken and useless now.",5,2026-10-01,4.8.1,iOS,iPhone 13,United Kingdom
+demo-000372,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-08-22,4.7.9,iOS,iPhone SE,United Kingdom
+demo-000373,The new UI is beautiful and so much easier to navigate.,5,2026-09-24,4.8.1,iOS,iPhone SE,Nigeria
+demo-000374,"Love the new features in the latest update, well done team.",4,2026-09-06,4.7.8,iOS,iPhone 13,Germany
+demo-000375,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.1,Android,Samsung Galaxy A54,Germany
+demo-000376,"Love the new features in the latest update, well done team.",5,2026-09-08,4.7.8,Android,OnePlus 11,India
+demo-000377,The new UI is beautiful and so much easier to navigate.,4,2026-10-01,4.8.1,iOS,iPhone 15 Pro,United Kingdom
+demo-000378,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-09,4.7.9,Android,Xiaomi 13,United Kingdom
+demo-000379,Really impressed with how fast and smooth the app feels now.,5,2026-09-25,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000380,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-10-01,4.8.2,Android,Google Pixel 8,Germany
+demo-000381,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000382,"This app just keeps getting better, checkout was effortless this time.",5,2026-08-22,4.7.9,iOS,iPhone 14,Nigeria
+demo-000383,"Opened the app and it immediately closed itself, happens every time now.",1,2026-10-01,4.8.1,Android,Xiaomi 13,India
+demo-000384,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,1,2026-09-20,4.8.1,Android,Google Pixel 8,United States
+demo-000385,"It does what it says, no major complaints but nothing amazing either.",4,2026-08-12,4.7.8,iOS,iPhone 15 Pro,India
+demo-000386,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.2,iOS,iPhone 14,Germany
+demo-000387,Support team is unhelpful and takes forever to reply.,2,2026-10-01,4.8.2,iOS,iPhone SE,United States
+demo-000388,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-03,4.7.9,iOS,iPhone 15 Pro,Germany
+demo-000389,"Worst update ever, nothing works, terrible experience overall.",5,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Indonesia
+demo-000390,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.0,iOS,iPhone 14,India
+demo-000391,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-10-01,4.8.2,iOS,iPhone SE,United Kingdom
+demo-000392,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,2,2026-09-20,4.8.1,Android,Samsung Galaxy S23,India
+demo-000393,"Worst update ever, nothing works, terrible experience overall.",5,2026-10-01,4.8.2,iOS,iPhone 15 Pro,India
+demo-000394,"App won't even launch anymore after updating, just crashes on splash screen.",2,2026-09-29,4.8.2,iOS,iPhone 14,United Kingdom
+demo-000395,"Search returns random unrelated items, really needs improvement.",3,2026-10-01,4.8.0,iOS,iPhone 14,India
+demo-000396,Dark mode has some ugly color contrast issues in the new UI.,2,2026-10-01,4.8.0,Android,Google Pixel 8,India
+demo-000397,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-19,4.7.9,iOS,iPhone 15 Pro,Germany
+demo-000398,"Transaction failed but the amount was debited from my account, no refund yet.",1,2026-09-29,4.8.1,iOS,iPhone 15 Pro,United States
+demo-000399,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Germany
+demo-000400,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.0,iOS,iPhone SE,United States
+demo-000401,Contacted support three days ago and still no response.,1,2026-09-20,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000402,"Buttons are way too small on my screen, hard to tap the right one.",2,2026-09-09,4.7.8,iOS,iPhone 13,India
+demo-000403,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-25,4.8.1,iOS,iPhone 15 Pro,United States
+demo-000404,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-27,4.7.8,Android,Google Pixel 8,India
+demo-000405,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.2,iOS,iPhone 13,United Kingdom
+demo-000406,"Everything feels sluggish, the app used to be so much faster.",3,2026-10-01,4.8.2,iOS,iPhone 13,United Kingdom
+demo-000407,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-02,4.7.9,iOS,iPhone 14,India
+demo-000408,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-12,4.8.0,iOS,iPhone 15 Pro,Indonesia
+demo-000409,Really impressed with how fast and smooth the app feels now.,4,2026-08-12,4.7.8,iOS,iPhone 15 Pro,United States
+demo-000410,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-09-17,4.8.0,iOS,iPhone 14,Brazil
+demo-000411,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.1,Android,Samsung Galaxy S23,United Kingdom
+demo-000412,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-27,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000413,"Love the new features in the latest update, well done team.",5,2026-09-26,4.8.1,Android,Samsung Galaxy A54,Germany
+demo-000414,App freezes on the home screen and I have to force close it constantly.,2,2026-10-01,4.8.1,iOS,iPhone 14,United Kingdom
+demo-000415,"Love the new features in the latest update, well done team.",4,2026-08-12,4.7.8,iOS,iPhone 14,Indonesia
+demo-000416,"Love the new features in the latest update, well done team.",4,2026-09-01,4.7.9,Android,Xiaomi 13,United Kingdom
+demo-000417,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",2,2026-10-01,4.8.2,Android,Google Pixel 8,Germany
+demo-000418,"App won't even launch anymore after updating, just crashes on splash screen.",1,2026-10-01,4.8.1,iOS,iPhone 15 Pro,Brazil
+demo-000419,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000420,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Indonesia
+demo-000421,Really impressed with how fast and smooth the app feels now.,4,2026-08-29,4.7.8,Android,OnePlus 11,United States
+demo-000422,Support team is unhelpful and takes forever to reply.,2,2026-09-12,4.7.8,Android,Samsung Galaxy A54,Indonesia
+demo-000423,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-10-01,4.8.1,iOS,iPhone 15 Pro,United Kingdom
+demo-000424,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-06,4.7.8,Android,Xiaomi 13,Indonesia
+demo-000425,"Everything feels sluggish, the app used to be so much faster.",2,2026-10-01,4.8.1,iOS,iPhone 14,United States
+demo-000426,"Love the new features in the latest update, well done team.",4,2026-08-11,4.7.8,Android,Samsung Galaxy A54,Brazil
+demo-000427,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.1,Android,OnePlus 11,United States
+demo-000428,The new UI is beautiful and so much easier to navigate.,4,2026-08-11,4.7.8,Android,OnePlus 11,Brazil
+demo-000429,The new UI is beautiful and so much easier to navigate.,4,2026-09-24,4.8.1,Android,Samsung Galaxy S23,India
+demo-000430,Checkout is broken — payment keeps failing and support hasn't replied in two days.,1,2026-09-30,4.8.1,Android,Samsung Galaxy A54,Nigeria
+demo-000431,The new UI is beautiful and so much easier to navigate.,5,2026-08-26,4.7.8,Android,Samsung Galaxy S23,Indonesia
+demo-000432,"It does what it says, no major complaints but nothing amazing either.",4,2026-10-01,4.8.1,iOS,iPhone 14,United States
+demo-000433,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-18,4.7.8,Android,Samsung Galaxy A54,India
+demo-000434,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-03,4.7.8,iOS,iPhone 13,Brazil
+demo-000435,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-30,4.7.8,Android,Google Pixel 8,United Kingdom
+demo-000436,The new UI is beautiful and so much easier to navigate.,5,2026-09-06,4.7.8,iOS,iPhone SE,Indonesia
+demo-000437,"Everything feels sluggish, the app used to be so much faster.",3,2026-09-05,4.7.9,iOS,iPhone 15 Pro,Nigeria
+demo-000438,App freezes on the home screen and I have to force close it constantly.,2,2026-08-27,4.7.9,Android,Samsung Galaxy A54,India
+demo-000439,"Transaction failed but the amount was debited from my account, no refund yet.",2,2026-09-19,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000440,App freezes on the home screen and I have to force close it constantly.,1,2026-09-05,4.7.9,iOS,iPhone SE,India
+demo-000441,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.1,Android,Samsung Galaxy A54,United Kingdom
+demo-000442,"Transaction failed but the amount was debited from my account, no refund yet.",2,2026-09-21,4.8.1,Android,Xiaomi 13,Nigeria
+demo-000443,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-03,4.7.9,iOS,iPhone SE,Germany
+demo-000444,"Average experience, some features are good, others need work.",3,2026-09-09,4.7.8,Android,Xiaomi 13,United States
+demo-000445,"Horrible, I hate what they did to this app.",5,2026-09-14,4.7.9,Android,OnePlus 11,Indonesia
+demo-000446,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-23,4.7.9,iOS,iPhone 14,Indonesia
+demo-000447,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.0,iOS,iPhone 15 Pro,Brazil
+demo-000448,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.2,iOS,iPhone 14,Brazil
+demo-000449,"Keeps crashing when I try to check out, completely unusable right now.",1,2026-10-01,4.8.1,iOS,iPhone 14,Germany
+demo-000450,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,2,2026-09-17,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000451,"OTP never arrived, tried five times, couldn't log in for 20 minutes.",2,2026-09-17,4.8.0,iOS,iPhone 13,Brazil
+demo-000452,"Tried to pay three times, all failed, but my bank shows the money was deducted.",1,2026-09-28,4.8.1,Android,Samsung Galaxy S23,Indonesia
+demo-000453,Search results are completely irrelevant to what I typed.,3,2026-09-11,4.8.0,iOS,iPhone 14,Indonesia
+demo-000454,The new UI is beautiful and so much easier to navigate.,4,2026-09-07,4.7.9,iOS,iPhone SE,United Kingdom
+demo-000455,"Love the new features in the latest update, well done team.",5,2026-09-01,4.7.8,Android,Samsung Galaxy A54,Nigeria
+demo-000456,"Keeps crashing when I try to check out, completely unusable right now.",1,2026-10-01,4.8.1,iOS,iPhone SE,Nigeria
+demo-000457,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.0,iOS,iPhone SE,Brazil
+demo-000458,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",2,2026-09-16,4.8.0,Android,OnePlus 11,Brazil
+demo-000459,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-23,4.8.1,Android,Samsung Galaxy S23,Indonesia
+demo-000460,"Love the new features in the latest update, well done team.",4,2026-08-09,4.7.8,iOS,iPhone SE,India
+demo-000461,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-10-01,4.8.1,Android,Samsung Galaxy A54,Indonesia
+demo-000462,The new UI is beautiful and so much easier to navigate.,5,2026-09-26,4.8.1,Android,Samsung Galaxy S23,Germany
+demo-000463,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.7.8.,2,2026-08-12,4.7.8,iOS,iPhone 15 Pro,Indonesia
+demo-000464,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,Android,Xiaomi 13,Nigeria
+demo-000465,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.0,iOS,iPhone SE,Nigeria
+demo-000466,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.2,iOS,iPhone 14,Brazil
+demo-000467,Search results are completely irrelevant to what I typed.,2,2026-09-25,4.7.9,iOS,iPhone 13,Nigeria
+demo-000468,Really impressed with how fast and smooth the app feels now.,5,2026-09-28,4.8.0,iOS,iPhone 15 Pro,Germany
+demo-000469,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Samsung Galaxy S23,India
+demo-000470,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-08-18,4.7.9,Android,Google Pixel 8,United Kingdom
+demo-000471,The new UI is beautiful and so much easier to navigate.,5,2026-09-13,4.7.8,iOS,iPhone 15 Pro,United States
+demo-000472,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-23,4.7.9,Android,OnePlus 11,United States
+demo-000473,"Love the new features in the latest update, well done team.",5,2026-08-30,4.7.9,iOS,iPhone SE,United Kingdom
+demo-000474,"Absolutely awful, the app is broken and useless now.",5,2026-10-01,4.8.1,Android,iPhone SE,United States
+demo-000475,The app crashes every time I open it since the last update.,2,2026-08-12,4.7.8,Android,OnePlus 11,Germany
+demo-000476,App freezes on the home screen and I have to force close it constantly.,1,2026-09-12,4.7.8,Android,Samsung Galaxy A54,United States
+demo-000477,App freezes on the home screen and I have to force close it constantly.,1,2026-08-27,4.7.9,iOS,iPhone 14,India
+demo-000478,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",3,2026-10-01,4.8.2,Android,Samsung Galaxy S23,India
+demo-000479,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.0,iOS,iPhone SE,United States
+demo-000480,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-10-01,4.8.2,Android,Xiaomi 13,Brazil
+demo-000481,"It does what it says, no major complaints but nothing amazing either.",4,2026-10-01,4.8.1,Android,Samsung Galaxy A54,India
+demo-000482,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-08-23,4.7.9,iOS,iPhone 15 Pro,Indonesia
+demo-000483,"Worst update ever, nothing works, terrible experience overall.",5,2026-10-01,4.8.2,iOS,iPhone 15 Pro,United Kingdom
+demo-000484,"Keeps crashing when I try to check out, completely unusable right now.",2,2026-09-21,4.8.0,Android,Xiaomi 13,India
+demo-000485,Contacted support three days ago and still no response.,1,2026-09-20,4.8.0,iOS,iPhone 15 Pro,Germany
+demo-000486,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Xiaomi 13,India
+demo-000487,Really impressed with how fast and smooth the app feels now.,5,2026-09-24,4.8.0,iOS,iPhone 15 Pro,Nigeria
+demo-000488,"Worst update ever, nothing works, terrible experience overall.",5,2026-08-14,4.7.8,Android,Samsung Galaxy A54,United States
+demo-000489,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-09-24,4.8.1,Android,Xiaomi 13,United Kingdom
+demo-000490,"App works as expected, nothing special to report either way.",4,2026-10-01,4.8.0,Android,Samsung Galaxy A54,Indonesia
+demo-000491,The new UI is beautiful and so much easier to navigate.,4,2026-10-01,4.8.2,Android,Samsung Galaxy S23,India
+demo-000492,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.2,Android,OnePlus 11,United Kingdom
+demo-000493,"Love the new features in the latest update, well done team.",5,2026-09-27,4.8.1,iOS,iPhone 14,Indonesia
+demo-000494,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.1,iOS,iPhone 14,United Kingdom
+demo-000495,"Buttons are way too small on my screen, hard to tap the right one.",2,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Nigeria
+demo-000496,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,Android,OnePlus 11,Nigeria
+demo-000497,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.2,iOS,iPhone SE,United Kingdom
+demo-000498,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-10-01,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000499,Search results are completely irrelevant to what I typed.,3,2026-09-18,4.8.1,iOS,iPhone SE,United States
+demo-000500,The new UI is beautiful and so much easier to navigate.,5,2026-09-14,4.7.9,Android,Samsung Galaxy A54,Nigeria
+demo-000501,"OTP never arrived, tried five times, couldn't log in for 20 minutes.",2,2026-09-04,4.7.9,iOS,iPhone 14,India
+demo-000502,"Love the new features in the latest update, well done team.",5,2026-09-27,4.7.9,Android,Samsung Galaxy S23,Indonesia
+demo-000503,"Love the new features in the latest update, well done team.",4,2026-09-12,4.7.8,Android,Xiaomi 13,United States
+demo-000504,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-10-01,4.8.1,Android,Google Pixel 8,India
+demo-000505,Can't log in — the verification code just doesn't show up anymore.,3,2026-08-05,4.7.8,iOS,iPhone 14,United States
+demo-000506,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-23,4.7.9,Android,Google Pixel 8,Germany
+demo-000507,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-09-21,4.8.1,Android,OnePlus 11,United States
+demo-000508,"App works as expected, nothing special to report either way.",4,2026-08-27,4.7.9,iOS,iPhone 14,Indonesia
+demo-000509,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-11,4.7.8,Android,Xiaomi 13,United Kingdom
+demo-000510,"Love the new features in the latest update, well done team.",5,2026-08-18,4.7.8,Android,Xiaomi 13,United States
+demo-000511,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.0,Android,Google Pixel 8,Germany
+demo-000512,"App works as expected, nothing special to report either way.",3,2026-08-12,4.7.8,Android,Samsung Galaxy A54,United Kingdom
+demo-000513,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-10-01,4.8.2,Android,Google Pixel 8,Nigeria
+demo-000514,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.1,iOS,iPhone 14,Nigeria
+demo-000515,"The new layout is confusing, I can't find the settings menu anymore.",2,2026-08-18,4.7.9,Android,Google Pixel 8,Nigeria
+demo-000516,The new UI is beautiful and so much easier to navigate.,4,2026-10-01,4.8.1,Android,Xiaomi 13,Germany
+demo-000517,The new UI is beautiful and so much easier to navigate.,5,2026-09-02,4.7.9,iOS,iPhone 15 Pro,India
+demo-000518,Can't log in — the verification code just doesn't show up anymore.,2,2026-10-01,4.8.2,iOS,iPhone SE,United States
+demo-000519,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.2,iOS,iPhone SE,United States
+demo-000520,UPI transaction rejected every single time since I updated to 4.8.1. Lost confidence in this app.,2,2026-09-29,4.8.0,iOS,iPhone 14,Germany
+demo-000521,"Tried to pay three times, all failed, but my bank shows the money was deducted.",2,2026-09-18,4.8.1,Android,Xiaomi 13,United States
+demo-000522,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.2,iOS,iPhone 13,Germany
+demo-000523,Really impressed with how fast and smooth the app feels now.,5,2026-08-27,4.7.9,iOS,iPhone 14,Nigeria
+demo-000524,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-24,4.8.0,Android,Google Pixel 8,United States
+demo-000525,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-25,4.8.0,Android,Google Pixel 8,United Kingdom
+demo-000526,"Can't find products I know exist, search just doesn't work well.",3,2026-08-13,4.7.8,Android,Samsung Galaxy A54,India
+demo-000527,Duplicate charge on my card for the same order after a failed payment attempt.,1,2026-09-29,4.8.1,Android,OnePlus 11,United Kingdom
+demo-000528,The new UI is beautiful and so much easier to navigate.,5,2026-09-08,4.7.9,Android,Samsung Galaxy A54,United States
+demo-000529,"It does what it says, no major complaints but nothing amazing either.",3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Nigeria
+demo-000530,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,iOS,iPhone 13,Nigeria
+demo-000531,The app crashes every time I open it since the last update.,2,2026-08-18,4.7.8,iOS,iPhone 13,Nigeria
+demo-000532,"App works as expected, nothing special to report either way.",3,2026-10-01,4.8.2,Android,Google Pixel 8,India
+demo-000533,"Love the new features in the latest update, well done team.",5,2026-10-01,4.8.2,iOS,iPhone 15 Pro,India
+demo-000534,Customer service chat just disconnects without resolving anything.,1,2026-10-01,4.8.2,Android,Samsung Galaxy A54,United Kingdom
+demo-000535,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-29,4.8.0,iOS,iPhone 13,Brazil
+demo-000536,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.1,iOS,iPhone 13,United States
+demo-000537,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.0,iOS,iPhone 15 Pro,United States
+demo-000538,App has gotten really slow and laggy since the recent update.,2,2026-10-01,4.8.1,Android,Google Pixel 8,United States
+demo-000539,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-10-01,4.8.1,iOS,iPhone 14,India
+demo-000540,Scrolling is choppy and the app lags whenever I open a product page.,2,2026-09-03,4.7.9,iOS,iPhone 15 Pro,Nigeria
+demo-000541,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-08-29,4.7.9,iOS,iPhone SE,Germany
+demo-000542,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-09-17,4.8.1,Android,Google Pixel 8,United Kingdom
+demo-000543,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-20,4.8.0,iOS,iPhone 13,United States
+demo-000544,"The new layout is confusing, I can't find the settings menu anymore.",3,2026-09-18,4.7.9,Android,Samsung Galaxy S23,India
+demo-000545,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-26,4.8.1,Android,Google Pixel 8,Brazil
+demo-000546,Checkout is broken — payment keeps failing and support hasn't replied in two days.,2,2026-09-27,4.8.1,Android,Google Pixel 8,United States
+demo-000547,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.1,Android,Xiaomi 13,Nigeria
+demo-000548,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-11,4.7.8,Android,Xiaomi 13,Nigeria
+demo-000549,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-07,4.7.8,Android,Google Pixel 8,United States
+demo-000550,"Opened the app and it immediately closed itself, happens every time now.",2,2026-08-17,4.7.8,iOS,iPhone 15 Pro,United Kingdom
+demo-000551,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-04,4.7.9,Android,OnePlus 11,Brazil
+demo-000552,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-24,4.7.8,Android,Google Pixel 8,Germany
+demo-000553,"Love the new features in the latest update, well done team.",5,2026-08-15,4.7.8,Android,Samsung Galaxy A54,United States
+demo-000554,"This app just keeps getting better, checkout was effortless this time.",4,2026-08-26,4.7.8,iOS,iPhone 15 Pro,India
+demo-000555,"Horrible, I hate what they did to this app.",5,2026-09-21,4.8.1,Android,Samsung Galaxy S23,Brazil
+demo-000556,Contacted support three days ago and still no response.,1,2026-09-26,4.8.1,Android,Samsung Galaxy S23,United Kingdom
+demo-000557,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-13,4.7.9,iOS,iPhone 13,Indonesia
+demo-000558,Really impressed with how fast and smooth the app feels now.,4,2026-10-01,4.8.2,Android,Google Pixel 8,United Kingdom
+demo-000559,"Takes forever to load the home screen now, used to be instant.",2,2026-10-01,4.8.0,iOS,iPhone 15 Pro,Indonesia
+demo-000560,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.0,Android,Google Pixel 8,United States
+demo-000561,The new UI is beautiful and so much easier to navigate.,5,2026-10-01,4.8.0,iOS,iPhone 13,Germany
+demo-000562,"It does what it says, no major complaints but nothing amazing either.",4,2026-09-07,4.7.9,Android,OnePlus 11,Germany
+demo-000563,Really impressed with how fast and smooth the app feels now.,4,2026-09-16,4.8.0,Android,OnePlus 11,India
+demo-000564,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-17,4.8.1,Android,OnePlus 11,Germany
+demo-000565,Customer service chat just disconnects without resolving anything.,2,2026-08-08,4.7.8,Android,Samsung Galaxy S23,Indonesia
+demo-000566,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-12,4.7.9,Android,OnePlus 11,United States
+demo-000567,Since 4.8.1 the payment gateway times out constantly. This is costing me real money.,1,2026-09-26,4.8.1,Android,Xiaomi 13,United States
+demo-000568,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-22,4.8.1,iOS,iPhone SE,India
+demo-000569,Card payment stuck on 'processing' for 20 minutes then failed. Happened right after 4.8.1.,2,2026-09-26,4.8.1,Android,Samsung Galaxy S23,Brazil
+demo-000570,"App won't even launch anymore after updating, just crashes on splash screen.",1,2026-09-16,4.7.9,iOS,iPhone 15 Pro,Germany
+demo-000571,"Opened the app and it immediately closed itself, happens every time now.",2,2026-10-01,4.8.2,Android,Samsung Galaxy A54,United States
+demo-000572,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-21,4.8.1,Android,OnePlus 11,Brazil
+demo-000573,"Search returns random unrelated items, really needs improvement.",3,2026-09-30,4.8.2,iOS,iPhone 13,Brazil
+demo-000574,"This app just keeps getting better, checkout was effortless this time.",4,2026-08-20,4.7.8,Android,Xiaomi 13,United States
+demo-000575,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-10-01,4.8.1,iOS,iPhone SE,Nigeria
+demo-000576,"This app just keeps getting better, checkout was effortless this time.",4,2026-08-27,4.7.8,iOS,iPhone SE,India
+demo-000577,App freezes on the home screen and I have to force close it constantly.,2,2026-10-01,4.8.2,iOS,iPhone 14,Germany
+demo-000578,"The new layout is confusing, I can't find the settings menu anymore.",2,2026-09-03,4.7.9,iOS,iPhone 14,United States
+demo-000579,"Login code delayed by several minutes, very frustrating when I need to log in quickly.",2,2026-09-13,4.8.0,iOS,iPhone SE,India
+demo-000580,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.2,Android,Xiaomi 13,Germany
+demo-000581,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-22,4.8.1,Android,Google Pixel 8,India
+demo-000582,"App works as expected, nothing special to report either way.",4,2026-10-01,4.8.1,iOS,iPhone SE,United States
+demo-000583,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-25,4.8.0,iOS,iPhone 15 Pro,United States
+demo-000584,"This app just keeps getting better, checkout was effortless this time.",4,2026-09-14,4.7.9,iOS,iPhone 13,United States
+demo-000585,The new UI is beautiful and so much easier to navigate.,5,2026-08-07,4.7.8,iOS,iPhone 15 Pro,Indonesia
+demo-000586,"App works as expected, nothing special to report either way.",3,2026-09-18,4.8.1,Android,Google Pixel 8,United Kingdom
+demo-000587,"Love the new features in the latest update, well done team.",4,2026-10-01,4.8.1,iOS,iPhone 15 Pro,United States
+demo-000588,"Takes forever to load the home screen now, used to be instant.",3,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Indonesia
+demo-000589,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.2,iOS,iPhone 14,India
+demo-000590,"It does what it says, no major complaints but nothing amazing either.",3,2026-09-06,4.7.9,iOS,iPhone 15 Pro,India
+demo-000591,The new UI is beautiful and so much easier to navigate.,4,2026-09-30,4.8.2,Android,OnePlus 11,United Kingdom
+demo-000592,"Worst update ever, nothing works, terrible experience overall.",5,2026-09-27,4.8.0,Android,Google Pixel 8,United States
+demo-000593,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-08-29,4.7.8,iOS,iPhone 15 Pro,Brazil
+demo-000594,"This app just keeps getting better, checkout was effortless this time.",5,2026-10-01,4.8.1,iOS,iPhone 13,Nigeria
+demo-000595,"Payment failed after the 4.8.1 update, money was deducted but the order never went through.",1,2026-09-28,4.8.1,Android,OnePlus 11,United Kingdom
+demo-000596,The redesign makes it harder to find what I'm looking for.,2,2026-09-29,4.8.0,Android,OnePlus 11,United States
+demo-000597,Really impressed with how fast and smooth the app feels now.,4,2026-09-07,4.7.8,iOS,iPhone SE,Brazil
+demo-000598,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-31,4.7.9,iOS,iPhone 15 Pro,India
+demo-000599,"Love the new features in the latest update, well done team.",5,2026-09-06,4.8.0,iOS,iPhone 13,Indonesia
+demo-000600,"Horrible, I hate what they did to this app.",5,2026-09-20,4.8.0,Android,Xiaomi 13,Nigeria
+demo-000601,"It does what it says, no major complaints but nothing amazing either.",4,2026-08-15,4.7.8,iOS,iPhone 13,Germany
+demo-000602,Scrolling is choppy and the app lags whenever I open a product page.,3,2026-10-01,4.8.1,iOS,iPhone 15 Pro,Nigeria
+demo-000603,"Average experience, some features are good, others need work.",4,2026-10-01,4.8.0,Android,Xiaomi 13,Nigeria
+demo-000604,"Love the new features in the latest update, well done team.",5,2026-08-20,4.7.8,iOS,iPhone 13,India
+demo-000605,Really impressed with how fast and smooth the app feels now.,5,2026-10-01,4.8.2,iOS,iPhone 13,Brazil
+demo-000606,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-09-06,4.8.0,Android,Samsung Galaxy A54,United Kingdom
+demo-000607,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-08-09,4.7.8,Android,OnePlus 11,Nigeria
+demo-000608,"Great experience overall, delivery was fast and the app worked perfectly.",5,2026-09-29,4.8.2,Android,OnePlus 11,United Kingdom
+demo-000609,"Absolutely awful, the app is broken and useless now.",5,2026-10-01,4.8.2,Android,Xiaomi 13,United States
+demo-000610,The app crashes every time I open it since the last update.,2,2026-10-01,4.8.0,iOS,iPhone SE,Germany
+demo-000611,"This app just keeps getting better, checkout was effortless this time.",4,2026-10-01,4.8.1,iOS,iPhone SE,United States
+demo-000612,"OTP delivery is unreliable lately, missed two deliveries because I couldn't log in in time.",2,2026-10-01,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000613,"It does what it says, no major complaints but nothing amazing either.",4,2026-08-12,4.7.8,iOS,iPhone 15 Pro,Brazil
+demo-000614,"Everything feels sluggish, the app used to be so much faster.",3,2026-10-01,4.8.1,iOS,iPhone 14,Nigeria
+demo-000615,"Customer support helped me resolve my issue within minutes, great experience.",4,2026-08-24,4.7.9,Android,OnePlus 11,United States
+demo-000616,"Average experience, some features are good, others need work.",4,2026-10-01,4.8.1,Android,Xiaomi 13,United Kingdom
+demo-000617,"It does what it says, no major complaints but nothing amazing either.",3,2026-08-20,4.7.8,iOS,iPhone 14,Germany
+demo-000618,Really impressed with how fast and smooth the app feels now.,4,2026-09-10,4.8.0,iOS,iPhone SE,Indonesia
+demo-000619,Search results are completely irrelevant to what I typed.,2,2026-10-01,4.8.2,Android,Samsung Galaxy A54,Nigeria
+demo-000620,Can't log in — the verification code just doesn't show up anymore.,3,2026-10-01,4.8.2,Android,Samsung Galaxy S23,Indonesia
+demo-000621,"Customer support helped me resolve my issue within minutes, great experience.",5,2026-09-19,4.8.1,Android,Google Pixel 8,Indonesia
+demo-000622,The app crashes every time I open it since the last update.,1,2026-09-25,4.7.9,iOS,iPhone 15 Pro,United Kingdom
+demo-000623,"Great experience overall, delivery was fast and the app worked perfectly.",4,2026-08-30,4.7.9,Android,Samsung Galaxy S23,Brazil
+demo-000624,"Opened the app and it immediately closed itself, happens every time now.",2,2026-09-30,4.8.0,Android,OnePlus 11,Brazil
+demo-000625,"Absolutely awful, the app is broken and useless now.",5,2026-08-11,4.7.8,Android,Samsung Galaxy A54,Nigeria
+demo-000626,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.1,iOS,iPhone SE,United States
+demo-000627,"Average experience, some features are good, others need work.",3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,Brazil
+demo-000628,Checkout is broken — payment keeps failing and support hasn't replied in two days.,2,2026-08-13,4.7.8,Android,Samsung Galaxy A54,Germany
+demo-000629,"This app just keeps getting better, checkout was effortless this time.",5,2026-09-07,4.7.9,Android,Xiaomi 13,Brazil
+demo-000630,Dark mode has some ugly color contrast issues in the new UI.,3,2026-10-01,4.8.2,iOS,iPhone 15 Pro,India
+demo-000631,"OTP never arrived, tried five times, couldn't log in for 20 minutes.",2,2026-09-26,4.8.0,iOS,iPhone 15 Pro,India
+demo-000632,"Search returns random unrelated items, really needs improvement.",2,2026-08-23,4.7.9,Android,Google Pixel 8,Brazil
+demo-000633,"App works as expected, nothing special to report either way.",4,2026-10-01,4.8.2,Android,Samsung Galaxy S23,United States
+demo-000634,"Absolutely awful, the app is broken and useless now.",5,2026-09-10,4.7.9,Android,iPhone 15 Pro,Nigeria
+demo-000635,Support team is unhelpful and takes forever to reply.,1,2026-09-28,4.8.0,Android,Xiaomi 13,United Kingdom
